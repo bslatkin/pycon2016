@@ -1,10 +1,10 @@
 # Refactoring Python: Why and how to restructure your code
 
-From the PyCon 2016 talk in Portland, OR ([officlal schedule link](https://us.pycon.org/2016/schedule/presentation/2073/)).
+From the PyCon 2016 talk in Portland, OR ([offical schedule link](https://us.pycon.org/2016/schedule/presentation/2073/)).
 
-[Slides are here](https://docs.google.com/presentation/d/1o9SWhgtGmk5NfddReoRzinu1kBbHLKmIWWZ0nnpuZ_o/edit?usp=sharing) and embedded below:
+Slides are here (click image below to view):
 
-<iframe src="https://docs.google.com/presentation/d/1o9SWhgtGmk5NfddReoRzinu1kBbHLKmIWWZ0nnpuZ_o/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[![Slides](slides_screenshot.png)](https://docs.google.com/presentation/d/1o9SWhgtGmk5NfddReoRzinu1kBbHLKmIWWZ0nnpuZ_o/edit?usp=sharing)
 
 ## Example code
 
@@ -15,7 +15,7 @@ Here are full Jupyter notebooks for each of the examples in the slides:
 - [Example 3: Add Parameter, Introduce Parameter Object](Add Parameter, Introduce Parameter Object.ipynb)
 - [Example 4: Extract Class, Move Field, Move Method](Extract Class, Move Field, Move Method.ipynb)
 
-To run the demo code (must have Python3 installed):
+To run the example code (must have Python3 installed):
 
 1. Download this repo
 2. Go into the repo directory on your local machine
