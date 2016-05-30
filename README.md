@@ -10,9 +10,9 @@ Slides are here (click image below to view):
 
 Here are full Jupyter notebooks for each of the examples in the slides:
 
-- [Example 1: Extract Variable](Extract Variable.ipynb)
-- [Example 2: Extract Method](Extract Method.ipynb)
-- [Example 3: Extract Class](Extract Class.ipynb)
+- [Example 1: Extract Variable & Function](Extract Variable.ipynb)
+- [Example 2: Extract Class](Extract Class.ipynb)
+- [Example 3: Extract Closure](Extract Method.ipynb)
 
 To run the example code (must have Python3 installed):
 
